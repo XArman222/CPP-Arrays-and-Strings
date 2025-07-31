@@ -32,3 +32,13 @@ int main() {
 
     return 0;
 }
+
+Output
+Enter the number of elements: 4
+Enter 4 elements:
+4
+5
+8
+2
+Minimum element: 2
+Maximum element: 8
